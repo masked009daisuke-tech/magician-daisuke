@@ -1,0 +1,13 @@
+# to-cloudflare handoff
+handoff-result.json
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
